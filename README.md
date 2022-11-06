@@ -1,6 +1,6 @@
-# Email & Password manager - Python-Tinkter
+# Email & Password manager - Python-Tkinter
 
-A simple desktop app done using Python Tinkter to manage or store emails and passwords.
+A simple desktop app done using Python Tkinter to manage or store emails and passwords.
 All data is kept and stored in a JSON file, with password being hashed.
 
 Includes CRUD operations to add, delete, edit data in JSON file.
